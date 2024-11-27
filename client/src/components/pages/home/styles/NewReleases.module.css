@@ -1,0 +1,12 @@
+.MuiBox-root {
+    margin: 0;
+    padding: 0;
+    background: none;
+    box-shadow: none;
+    border: none;
+  }
+banner{
+    border: none;
+    object-fit: cover;
+    background: none;
+}

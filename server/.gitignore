@@ -1,0 +1,45 @@
+# Node Modules
+node_modules/
+
+# Environment Variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-Specific Files
+.DS_Store
+Thumbs.db
+
+# IDE and Editor Files
+.idea/
+.vscode/
+*.swp
+
+# Build Artifacts
+dist/
+build/
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Dependency Lock Files (if not required)
+package-lock.json
+yarn.lock
+
+# Coverage Reports
+coverage/
+
+# Database Files (if any)
+*.sqlite
+*.db
+*.sql
+
+# Docker and Cloud
+.dockerignore
+.docker-compose
